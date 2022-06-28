@@ -362,7 +362,7 @@ body {
 
 .social-media-link:hover,
 .social-media-link:focus {
-    fill: currentColor;
+    fill: var(--white-color);
     background-color: var(--primary-color);
 }
 
